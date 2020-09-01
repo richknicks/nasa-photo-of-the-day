@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project you will build out a application to show the nasa photo of the day.
+In this project I built out an application to show the nasa photo of the day.
 
 ## Project Set Up
 
@@ -10,7 +10,7 @@ In this project you will build out a application to show the nasa photo of the d
 
 This project was put together using create-react-app (CRA). You will not need to install CRA in order to make this project work.
 
-# _Project - NASA APOD - Part I_
+# _Project - NASA APOD 
 
 - This is a really fun project, and one to show your family and friends when you've finished.
 - You will be starting from scratch and building the entire app
@@ -79,6 +79,10 @@ Working
 ## Tech Stack
 
 React, Axios, JSX
+
+## How to use
+
+Simply just go to your terminal and type in nmp start and you can run it locally on your browser or you can deploy it and see through a webpage. 
 
 
 
